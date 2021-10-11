@@ -1,0 +1,3 @@
+- 👋 Hi everyone! My name is Balazs Kovacs.
+- 👀 I’m interested in object oriented programming mainly in Java, but I'm open to learn anything new.
+- 🌱 I’m currently writing my thesis, which is a RPG like game written in native Java.
